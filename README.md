@@ -1,2 +1,2 @@
-# bias-detector
-A political bias detector for all digital news agencies.
+# Bias Detector
+A political bias detector for the major digital news agencies.
